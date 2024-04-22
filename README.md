@@ -8,4 +8,5 @@ STEPS:
 4. Run in your IDE or via the terminal
 
 **NOTE: Images will not retain their transparency unless the images are preprocessed to PNG using photoshop or some other method
+
 this step can also take advantage of photoshop's high compression (slow saving time) option to reduce overall file size of the image set
